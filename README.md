@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SondosSmg
+- 👀 I’m interested in Python webe development
+- 🌱 I’m currently learning how to set up and get a Django project up and running, from scratch
+- 💞️ I’m looking to collaborate on Github projects that can help me upgrade my programming skills
+- 📫 How to reach me : feel free to send e-mails to my adress: awachri.sondos@gmail.com
